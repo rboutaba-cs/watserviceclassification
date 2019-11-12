@@ -15,3 +15,6 @@ Elastic Optical Network (EON) is an emerging technology that facilitates flexibl
 - Shihabur Rahman Chowdhury (PhD Student)
 - Sepehr Taeb (Master's Student)
 - Mubeen Zulfiquar (PhD Student)
+
+## Sponsor and Partners
+![NSERC](assets/nserc_logo.png)
