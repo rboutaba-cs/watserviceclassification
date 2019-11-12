@@ -7,14 +7,5 @@ Elastic Optical Network (EON) is an emerging technology that facilitates flexibl
 - S. Taeb, N. Shahriar, S.R. Chowdhury, M. Tornatore, R. Boutaba, J. Mitra, and M. Hemmati. Virtual Network Embedding with Path-based Latency Guarantees in Elastic Optical Networks. IEEE International Conference on Network Protocols (ICNP). Chicago, IL, USA, October 7-10, 2019 ([Paper](http://rboutaba.cs.uwaterloo.ca/Papers/Conferences/2019/TaebICNP19.pdf), [Slides](http://rboutaba.cs.uwaterloo.ca/Papers/Conferences/2019/TaebICNP19.pdf))
 - N. Shahriar, S. Taeb, S.R. Chowdhury, M. Zulfiqar, M. Tornatore, R. Boutaba, J. Mitra, and M. Hemmati. Reliable Slicing of 5G Transport Networks with Dedicated Protection. IEEE/ACM/IFIP Conference on Network and Service Management (CNSM). Halifax, Canada, October 21-25, 2019. **Recipient of the Best Paper Award.**
 
-## University of Waterloo Team
-
-- Raouf Boutaba (Principal Investigator)
-- Massimo Tornatore (Visiting Professor, Politecnico di Milano)
-- Nashid Shahriar (PhD Student)
-- Shihabur Rahman Chowdhury (PhD Student)
-- Sepehr Taeb (Master's Student)
-- Mubeen Zulfiquar (PhD Student)
-
 ## Sponsors and Partners
 <img src="assets/nserc_logo.png" alt="NSERC" width="30%"/><img src="assets/huawei_logo.png" alt="Huawei Canada" width="30%"/>
