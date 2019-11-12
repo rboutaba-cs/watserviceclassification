@@ -17,4 +17,4 @@ Elastic Optical Network (EON) is an emerging technology that facilitates flexibl
 - Mubeen Zulfiquar (PhD Student)
 
 ## Sponsor and Partners
-<img src="assets/nserc_logo.png" alt="NSERC" width="15%"/><img src="assets/huawei_logo.png" alt="Huawei Canada" width="15%"/>
+<img src="assets/nserc_logo.png" alt="NSERC" width="30%"/><img src="assets/huawei_logo.png" alt="Huawei Canada" width="30%"/>
