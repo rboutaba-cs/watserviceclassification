@@ -2,15 +2,64 @@
 ---
 
 @import "{{ site.theme }}";
+html {
+  background:#C0C0C0;
+  height: 100%;
+}
+A:link { color: #880000;}
+A:visited { color:#880000}
+A:active { color: #880000}
+A:hover{font-weight:bold; color: #880000;}
+a {
+  color:#880000;
+  text-decoration:underline;
+}
+
+.wrapper {
+  border-radius: 0;
+  width: 790px;
+  margin-top: 15px;
+}
+
+body {
+  padding: 15px;
+  background-color: #C0C0C0;
+  font: 13px/1.5 Arial, Helvetica, sans-serif;
+}
 
 header {
   background:#000000;
-  background: linear_gradient(#222222, #000000);
+  border-radius: 0;
+  padding:10px 20px;
+  boarder-bottom: 0;
   h1 {
     color:#FFFFFF;
+    text-shadow: none;
   }
 }
 
+ul {
+  text-align: left;
+  padding-left: 15px;
+  list-style-image: url(../bullet_red.gif);
+  list-style-type: none;
+  font-size: 1em;
+  line-height: 1.5em;
+}
+
 section {
-  text-align: justify
+  text-align: justify;
+  font-weight:500;
+  font-size: 13px;
+  line-height: 1.7;
+  background: #FFFFFF;
+}
+
+footer {
+  background-color: #000000;
+  height: 5px;
+  clear: both;
+  margin-bottom: 15px;
+  width: 790px;
+  box-shadow: rgba(#000, 0.2) 0 0 0 1px, rgba(#000, 0.45) 0 3px 10px;
 }
